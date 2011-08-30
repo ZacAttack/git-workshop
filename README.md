@@ -6,7 +6,7 @@ The goal of this exercise is to implement the stories below. The team will need 
 # Stories, Part 1  
 
 1. Create a document with the name and address of this organization. Kate, Lakshmi, Sudhindra, Chris
-2. Create a document with your <a href="git-exp.html">git experience</a>.  TT,MO,IGOR,RITIKA,ROBERT
+2. Create a document with your <a href="https://github.com/hammerdr/git-workshop/blob/master/git-exp.html">git experience</a>.  TT,MO,IGOR,RITIKA,ROBERT
 3. Create a document with the following content: LUPI, PHIL, ERIC, ANA
 
 welcome to the jungel
@@ -14,8 +14,14 @@ eelcome to the jungle
 
 4. Fix the spelling mistakes in the document mentioned in step 3.Lupi,Phil,Ana,Allan
 5. Add 50 to the address number of the document mentioned in step 1. TEAM HAPPY
-6. Add your git experience to the document mentioned in step 2.
+<<<<<<< HEAD
+6. Add your git experience to the document mentioned in step 2.  Sara,Brian,Mark
 7. Create a document with two sentences.
+=======
+6. Add your git experience to the document mentioned in step 2.
+    team#4
+7. Create a document with two sentences. TEAM HAPPY
+>>>>>>> 97b9ab55c2050907d05df11ccd73a6cdf00954f9
 8. Subtract 100 from the address number of the document mentioned in step 1. Kate, Lakshmi, Sudhindra, Chris
 9. Output the names of the pairs (checkin comments) of the pair that fixed the spelling lling mistakes in the document mentioned in step 3. 
 
@@ -33,9 +39,9 @@ Hotfixes will need to be applied to both the release branch and the master branc
 
 11. Delete the document created in step 1.
 12. Create a document that has 2 paragraphs of text.
-13. Add a new first sentence to the document in step 7.
-14. Create a spelling mistake in the document mentioned in step 2.
-15. Create a document with your favourite programming lanugage extension.
+13. Add a new first sentence to the document in step 7. Wade Alex Danny 
+14. Create a spelling mistake in the document mentioned in step 2. TEAM HAPPY
+15. Create a document with your favourite programming lanugage extension.Eic,ana,allan,maria
 16. Undo the changes made to the document mentioned in step 1 all the way to the first commit.
 17. Add another sentence to the document in step 7.
 18. Put the changes that have happened since the branch into a file called "R2Changes.txt"
