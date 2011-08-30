@@ -6,7 +6,7 @@ The goal of this exercise is to implement the stories below. The team will need 
 # Stories, Part 1  
 
 1. Create a document with the name and address of this organization. Kate, Lakshmi, Sudhindra, Chris
-2. Create a document with your git experience.  TT,MO,IGOR,RITIKA,ROBERT
+2. Create a document with your <a href="git-exp.html">git experience</a>.  TT,MO,IGOR,RITIKA,ROBERT
 3. Create a document with the following content: LUPI, PHIL, ERIC, ANA
 
 welcome to the jungel
@@ -17,7 +17,7 @@ eelcome to the jungle
 6. Add your git experience to the document mentioned in step 2.
     team#4
 7. Create a document with two sentences.
-8. Subtract 100 from the address number of the document mentioned in step 1.
+8. Subtract 100 from the address number of the document mentioned in step 1. Kate, Lakshmi, Sudhindra, Chris
 9. Output the names of the pairs (checkin comments) of the pair that fixed the spelling lling mistakes in the document mentioned in step 3. 
 
 # Time to branch!
