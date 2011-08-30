@@ -40,7 +40,7 @@ Hotfixes will need to be applied to both the release branch and the master branc
 11. Delete the document created in step 1.
 12. Create a document that has 2 paragraphs of text.
 13. Add a new first sentence to the document in step 7. Wade Alex Danny 
-14. Create a spelling mistake in the document mentioned in step 2.
+14. Create a spelling mistake in the document mentioned in step 2. TEAM HAPPY
 15. Create a document with your favourite programming lanugage extension.Eic,ana,allan,maria
 16. Undo the changes made to the document mentioned in step 1 all the way to the first commit.
 17. Add another sentence to the document in step 7.
