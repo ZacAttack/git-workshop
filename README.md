@@ -16,7 +16,7 @@ eelcome to the jungle
 5. Add 50 to the address number of the document mentioned in step 1. TEAM HAPPY
 6. Add your git experience to the document mentioned in step 2.
     team#4
-7. Create a document with two sentences. Eric,Maria,allan,Ana
+7. Create a document with two sentences. TEAM HAPPY
 8. Subtract 100 from the address number of the document mentioned in step 1. Kate, Lakshmi, Sudhindra, Chris
 9. Output the names of the pairs (checkin comments) of the pair that fixed the spelling lling mistakes in the document mentioned in step 3. 
 
