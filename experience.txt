@@ -1,1 +1,2 @@
-We have only a vague notion of what git is.
+We have only a vaygue notion of what git is.
+Not gonna lie, its the same here.

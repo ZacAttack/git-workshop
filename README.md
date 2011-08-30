@@ -15,7 +15,7 @@ eelcome to the jungle
 4. Fix the spelling mistakes in the document mentioned in step 3.Lupi,Phil,Ana,Allan
 5. Add 50 to the address number of the document mentioned in step 1. TEAM HAPPY
 6. Add your git experience to the document mentioned in step 2.  Sara,Brian,Mark
-7. Create a document with two sentences.
+7. Create a document with two sentences. TEAM HAPPY
 8. Subtract 100 from the address number of the document mentioned in step 1. Kate, Lakshmi, Sudhindra, Chris
 9. Output the names of the pairs (checkin comments) of the pair that fixed the spelling lling mistakes in the document mentioned in step 3. 
 
@@ -26,12 +26,12 @@ Hotfixes will need to be applied to both the release branch and the master branc
 
 ## Hotfixes for Release 1
 
-9. Delete a sentence from the document mentioned in step 7.
+9. Delete a sentence from the document mentioned in step 7.- Kate, Lakshmi, Sudhindra, Chris
 10. Introduce a help file explaining the content of document 2.
 
 ## More stories for master
 
-11. Delete the document created in step 1.
+11. Delete the document created in step 1. 
 12. Create a document that has 2 paragraphs of text.
 13. Add a new first sentence to the document in step 7. Wade Alex Danny 
 14. Create a spelling mistake in the document mentioned in step 2. TEAM HAPPY
