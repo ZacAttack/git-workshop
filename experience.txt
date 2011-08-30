@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 We have only a vaygue notion of what git is.
 Not gonna lie, its the same here.
+=======
+We have only a vague notion of what git is.
+TEAM HAPPY now has a slight bit more experience.
+>>>>>>> 486bbe055d615c9e45149fbd08437d69dcf0ca43
