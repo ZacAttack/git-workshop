@@ -4,4 +4,5 @@ We have only a vague notion of what git is.
 
 We too !
 We have only a vague notion of what git is.
-TEAM HAPPY now has a slight bit more experience. Creating a merge conflict again.
+Not gonna lie, its the same here.
+TEAM HAPPY now has a slight bit more experience.
