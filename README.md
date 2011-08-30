@@ -29,7 +29,7 @@ Hotfixes will need to be applied to both the release branch and the master branc
 
 ## Hotfixes for Release 1
 
-9. Delete a sentence from the document mentioned in step 7.
+9. Delete a sentence from the document mentioned in step 7.- Kate, Lakshmi, Sudhindra, Chris
 10. Introduce a help file explaining the content of document 2.
 
 ## More stories for master
