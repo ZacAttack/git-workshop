@@ -2,3 +2,4 @@ Zynx Health
 10880 Wilshire Blvd.
 Los Angeles, CA 90025
 
+We have only a vague notion of what git is.
