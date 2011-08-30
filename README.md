@@ -3,7 +3,7 @@ This is the git repository for a git training workshop.
 The goal of this exercise is to implement the stories below. The team will need to select and sign up for the stories. To sign up for a story, you need to put your name next to the story and push that to the remote repository.
 
 
-# Stories, Part 1
+# Stories, Part 1  Kate, Lakshmi, Sudhindra, Chris
 
 1. Create a document with the name and address of this organization.
 2. Create a document with your git experience.
