@@ -7,7 +7,7 @@ The goal of this exercise is to implement the stories below. The team will need 
 
 1. Create a document with the name and address of this organization.
 2. Create a document with your git experience.
-3. Create a document with the following content:
+3. Create a document with the following content: LUPI, PHIL, ERIC, ANA
 
 welcome to the jungel
 eelcome to the jungle
