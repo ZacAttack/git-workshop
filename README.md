@@ -31,7 +31,7 @@ Hotfixes will need to be applied to both the release branch and the master branc
 
 ## More stories for master
 
-11. Delete the document created in step 1. 
+11. Delete the document created in step 1. Team AWESOME 
 12. Create a document that has 2 paragraphs of text.
 13. Add a new first sentence to the document in step 7. Wade Alex Danny 
 14. Create a spelling mistake in the document mentioned in step 2. TEAM HAPPY
